@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Assets, Threts, and Vulnerabilities</b>
-  - [Improve authentication and authorization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Improve authentication and authorization](https://github.com/TrinityN25/authentication/edit/main/README.md)
   - [Analyze a vulnerable system for small business](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Detection and response</b>
   - [Alert tiket](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
