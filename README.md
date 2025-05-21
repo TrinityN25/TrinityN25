@@ -4,15 +4,15 @@
 
 - <b>Assets, Threts, and Vulnerabilities</b>
   - [Improve authentication and authorization](https://github.com/TrinityN25/authentication)
-  - [Analyze a vulnerable system for small business](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyze a vulnerable system for small business](https://github.com/TrinityN25/Analyze)
 - <b>Detection and response</b>
-  - [Alert tiket](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  - [Phishing Playbook](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Alert tiket]() <b><i></b></i>
+  - [Phishing Playbook]() <b><i></b></i>
 
 
 - <b>Python and Linux</b>
-  - [Apply filters to SQL queries](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [File permissions in Linux](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Apply filters to SQL queries]()
+  - [File permissions in Linux]()
 <h2>Certifications</h2>
 
 - <b>Google Cybersecurity</b>
